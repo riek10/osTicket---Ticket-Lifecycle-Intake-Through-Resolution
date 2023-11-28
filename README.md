@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/riek10/osTicket---Ticket-Lifecycle-Intake-Through-Resolution/assets/113129662/d3991de8-affd-472d-8242-1b0f5f6f4abd" height="80%" width="80%"/>
 </p>
 <p>
-For the intake portion of the ticketing process i submitted a ticket as one of the users i created earlier basically requesting new keyboards for one of the departments. I had the equipment request ticket assigned to Jane, one of the created support agents and the SLA to Sev-A and priority set to high.
+For the intake portion of the ticketing process i submitted a ticket as one of the users created earlier requesting new keyboards for one of the departments. I had the equipment request ticket assigned to Jane, one of the created support agents and the SLA set to Sev-A and priority set to high.
 </p>
 <br />
 
@@ -34,6 +34,6 @@ For the intake portion of the ticketing process i submitted a ticket as one of t
 <img src="https://github.com/riek10/osTicket---Ticket-Lifecycle-Intake-Through-Resolution/assets/113129662/3a0e8c2b-5d4d-43b3-a0b2-38c41ae33a51"/>
 </p>
 <p>
-After receiving the ticket i responded as the assigned agent promtly and informed the user that the order for new keyboards was placed and that her department could expect them within the next couple of hours.
+After receiving the ticket i responded as the assigned agent promtly and informed the user that the order for new keyboards was placed and that the department could expect them within the next couple of hours. After responding to the user and submitting the request i then closed the ticket.
 </p>
 <br />
